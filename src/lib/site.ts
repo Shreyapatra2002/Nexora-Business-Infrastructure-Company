@@ -98,16 +98,16 @@ export const saasProducts = [
 ] as const;
 
 export const industries = [
-  { name: "Private Colleges", image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80" },
-  { name: "Jewellery Brands", image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" },
-  { name: "Nursing Homes", image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=80" },
-  { name: "Clinics", image: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&q=80" },
-  { name: "Salons", image: "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=600&q=80" },
-  { name: "Fashion Brands", image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=600&q=80" },
-  { name: "Restaurants & Bars", image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80" },
-  { name: "Manufacturing SMEs", image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80" },
-  { name: "Startups", image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80" },
-  { name: "MSMEs", image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80" },
+    { name: "Private Colleges", image: "/images/built-for-real-sectors/college.webp" },
+  { name: "Jewellery Brands", image: "/images/built-for-real-sectors/Product-Jewelry-Photography-1.webp" },
+  { name: "Nursing Homes", image: "/images/built-for-real-sectors/nursinghome.webp" },
+  { name: "Clinics", image: "/images/built-for-real-sectors/clinics.webp" },
+  { name: "Salons", image: "/images/built-for-real-sectors/beauty-salon.webp" },
+  { name: "Fashion Brands", image: "/images/built-for-real-sectors/fashion.webp" },
+  { name: "Restaurants & Bars", image: "/images/built-for-real-sectors/restaurant-tableside.webp" },
+  { name: "Manufacturing SMEs", image: "/images/built-for-real-sectors/Manufacturing SMEs.webp" },
+  { name: "Startups", image: "/images/built-for-real-sectors/startup.webp" },
+  { name: "MSMEs", image: "/images/built-for-real-sectors/MSMEs.webp" },
 ] as const;
 
 export const processSteps = [
